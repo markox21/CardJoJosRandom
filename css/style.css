@@ -1,0 +1,131 @@
+body {
+    background-color: #83dc9525;
+    color: #ed9863;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+
+  }
+
+  main {
+    margin: auto;
+    padding: auto;
+  }
+  
+  
+  img {
+    border-radius: 5px;
+    max-width: 350px;
+    width: 100%;
+  }
+  
+  p {
+    color: #8097A6;
+  }
+  
+
+  
+
+  
+  .content {
+    width: 65%;
+    padding-left: 30px;
+    padding-right: 20px;
+    background-color: #dababa;
+    border: 1px solid #e0dbdabd;
+    background: transparent;
+    border-radius: 5px;
+
+  }
+  
+  .content p {
+    max-width: 80%;
+  }
+  
+  .sidebar {
+    width: 64%;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 85vh;
+  }
+  .espacio{
+    margin-top:0.7rem;
+    padding-top:1rem;
+
+  }
+  .positionBtn{
+    display:flex;
+    justify-content: center;
+   
+  }
+
+
+  button {
+    width: 200px;
+    max-width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 47px;
+    border: 1px solid #bf9b8a;
+    background: transparent;
+    color: #eb1212;
+    border-radius: 5px;
+    font-size: 23px;
+  }
+  
+  button:hover {
+    cursor: pointer;
+    background-color: rgba(226, 103, 103, 0.336)
+  }
+  
+  .reveal-btn {
+    border: none;
+    text-decoration: underline;
+    margin: 0;
+  }
+  
+  .reveal-btn:hover {
+    color: white;
+    background-color: transparent;
+  }
+  .textoPrincipal{
+    background-color: #dda24356;
+    flex-direction: column;
+    margin: auto;
+    border-radius: 8px;
+  }
+  .center{
+    text-align: center;
+    margin-bottom: 0.5rem;
+  }
+
+  .imagenCartas{
+    margin: auto;
+  }
+
+  .cards-content{
+    margin: auto;
+  }
+  #tapeImagen{
+    display: flex;
+    padding-bottom:0.2rem ;
+  }
+  .imagenCartasTres{
+    margin: auto;
+    
+  }
+
+  .imagenCartasCuatro{
+    display: flex;
+  }
+
+  .containerPrincipal{
+    max-width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  }
+
+
+
